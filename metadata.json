@@ -1,0 +1,8 @@
+{
+  "name": "Amazon.sg — Razer Viper V4 Pro",
+  "description": "Amazon.sg product experience for the Razer Viper V4 Pro Wireless E-Sport Gaming Mouse with interactive gallery, 360 view, cart drawer, and Singapore checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
